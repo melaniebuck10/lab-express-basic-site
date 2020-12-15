@@ -24,4 +24,4 @@ app.get('/photo_gallery', function(request, response){
 
 __dirname
 
-app.listen(3000)
+app.listen(3010)
